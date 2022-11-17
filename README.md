@@ -20,7 +20,7 @@ private = 내 class에서만 사용 가능
 
 ② static
 
-static = 정적메소드, 고정 된 값을 가짐
+static = 정적메소드, 고정 된 값을 가짐 / static이 붙은 메서드는 생성자 없이 호출이 가능하다
 
 void = 리턴 값이 없음
 
